@@ -33,7 +33,7 @@ My research interests mainly focus on: **1) AI-Generated Content (AIGC); 2) Diff
 
 # 🔥 News
 
-- *2026.03*: &nbsp;🎉 **LinCa** is now available on [arxiv](xxx), code is under construction.
+<!-- - *2026.03*: &nbsp;🎉 **LinCa** is now available on [arxiv](xxx), code is under construction. -->
 
 - *2026.03*: &nbsp;🎉 **FedShift** is accepted by **ICLRW 2026** as oral presentation. Congratulations to all co-authors. See you in Rio de Janeiro, Brazil.
 
@@ -48,7 +48,7 @@ My research interests mainly focus on: **1) AI-Generated Content (AIGC); 2) Diff
 
 **JinShan Liu** *, Haoran Qin *, Xiaobing Tu, Jiacheng Liu, Jiahui Hu, Zhengan Yan, Yukun Xie, Kerui Shen, Jinkui Ren, Yuqi Lin, Xiantao Zhang, Linfeng Zhang <sup>†</sup>
 
-[**[PDF]**](https://arxiv.org/pdf/xxx) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**[PDF]**](https://arxiv.org/pdf/xxx) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 <!-- [**[PDF]**](https://arxiv.org/pdf/xxx)  [**[Project Page]**](https://postercopilot.github.io/) [**[Github]**](https://github.com/JiazheWei/PosterCopilot)  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
@@ -66,7 +66,7 @@ My research interests mainly focus on: **1) AI-Generated Content (AIGC); 2) Diff
 
 Haipeng Zhou *, **JinShan Liu** *, He Zhang, Xuequan Lu, Jun Ma, Lei Zhu <sup>†</sup> 
 
-[**[PDF]**](https://arxiv.org/pdf/xxx) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**[PDF]**](https://arxiv.org/pdf/xxx) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 **TL;DR:** *We propose Kiroshi, an agentic perception system for high-accuracy image matting and segmentation. By training an Action Model with iterative refinement and MLLM post-training via within-context preference pairs, Kiroshi achieves fully automatic, state-of-the-art fine-grained image parsing.*
 
@@ -82,7 +82,7 @@ Haipeng Zhou *, **JinShan Liu** *, He Zhang, Xuequan Lu, Jun Ma, Lei Zhu <sup>�
 
 **JinShan Liu** *, Ken Li *, Jiazhe Wei, Bin Shi <sup>†</sup>, Bo Dong 
 
-[**[PDF]**](https://arxiv.org/pdf/xxx) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**[PDF]**](https://arxiv.org/pdf/xxx) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 **TL;DR:** *We propose FedShift, a two-stage distributed backdoor attack on Federated Graph Learning that hides a learnable shifter during training and finds adversarial perturbations post-training, achieving state-of-the-art attack success while evading defenses with 90%+ reduced cost.*
 
