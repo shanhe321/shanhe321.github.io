@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jinshan Liu (刘锦山)"
-description              : "Incoming Master Student @ Nanjing University"
+description              : "Junior Undergraduate @ Xi'an Jiaotong University"
 repository               : "shanhe321/shanhe321.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,8 +27,8 @@ author:
   location         : "Shenzhen, Guangdong, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=UgKRQJwAAAAJ&hl=en&oi=ao"
-  email            : "jzw6545@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=GJrqN4EAAAAJ&hl=en&oi=ao"
+  email            : "shanhe@stu.xjtu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JinshanLiu"
+  github           : "shanhe321"
   google_plus      :
   keybase          :
   instagram        :
@@ -51,10 +51,10 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jzw1365297"
+  twitter          : 
   vine             :
   Liubo            :
-  wechat           : "images/wechat.jpg"
+  wechat           : "images/wechat_ljs.jpg"
   xing             :
   youtube          :
   wikipedia        :
