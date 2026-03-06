@@ -113,7 +113,7 @@ Ken Li, Bin Shi, **Jiazhe Wei**, Bo Dong
 # 🔬 Research & Intern Experience
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/sjtu.jpg" alt="CERN" style="width: 100px; height: 100px; margin-right: 20px; object-fit: contain; flex-shrink: 0;">
+  <img src="images/sjtu.png" alt="EPIClab" style="width: 100px; height: 100px; margin-right: 20px; object-fit: contain; flex-shrink: 0;">
   <div>
     <p style="margin: 0;"><strong><a href="https://github.com/SJTU-EPIC-Lab">EPIClab</a>, SJTU</strong></p>
     <p style="margin: 5px 0; font-size: 14px;"><em>2025.10 - present, Research Assistant, Shanghai, China</em></p>
@@ -123,7 +123,7 @@ Ken Li, Bin Shi, **Jiazhe Wei**, Bo Dong
 
 ---
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/hkust.jpg" alt="CERN" style="width: 100px; height: 100px; margin-right: 20px; object-fit: contain; flex-shrink: 0;">
+  <img src="images/hkust.png" alt="ROASlab" style="width: 100px; height: 100px; margin-right: 20px; object-fit: contain; flex-shrink: 0;">
   <div>
     <p style="margin: 0;"><strong><a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/robotics-and-autonomous-systems/">ROASlab</a>, HKUST(GZ)</strong></p>
     <p style="margin: 5px 0; font-size: 14px;"><em>2025.08 - present, Research Assistant, Guangzhou, China</em></p>
