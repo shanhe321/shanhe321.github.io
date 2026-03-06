@@ -6,25 +6,25 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiazhe Wei (魏佳哲)"
+title                    : "Jinshan Liu (刘锦山)"
 description              : "Incoming Master Student @ Nanjing University"
-repository               : "JiazheWei/JiazheWei.github.io"
+repository               : "shanhe321/shanhe321.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification : "yy_3iiS_X6pJdegdwitJMrH0LRLHXwpjrV9RKLXxKjg"
+google_site_verification : "uPRKb0wRIBnYrpJFMteHGVeMIVzRkBho1DdZisgBoxY"
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Jiazhe Wei"
-  avatar           : "images/profile.jpg"  # 需要图片: new_profile.jpg
+  name             : "Jinshan Liu"
+  avatar           : "images/profile_ljs.jpg"  # 需要图片: new_profile.jpg
   bio              : 
-  location         : "Shanghai, China"
+  location         : "Shenzhen, Guangdong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=UgKRQJwAAAAJ&hl=en&oi=ao"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JiazheWei"
+  github           : "JinshanLiu"
   google_plus      :
   keybase          :
   instagram        :
@@ -53,7 +53,7 @@ author:
   tumblr           :
   twitter          : "jzw1365297"
   vine             :
-  weibo            :
+  Liubo            :
   wechat           : "images/wechat.jpg"
   xing             :
   youtube          :
