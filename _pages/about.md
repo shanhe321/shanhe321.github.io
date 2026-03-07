@@ -117,7 +117,7 @@ Ken Li, Bin Shi, **Jiazhe Wei**, Bo Dong
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/sjtu.png" alt="EPIClab" style="width: 100px; height: 100px; margin-right: 20px; object-fit: contain; flex-shrink: 0;">
   <div>
-    <p style="margin: 0;"><strong><a href="https://github.com/SJTU-EPIC-Lab">EPIClab</a>, SJTU</strong></p>
+    <p style="margin: 0;"><strong><a href="https://github.com/SJTU-EPIC-Lab">EPIClab</a>, Shanghai Jiaotong University</strong></p>
     <p style="margin: 5px 0; font-size: 14px;"><em>2025.10 - present, Research Assistant, Shanghai, China</em></p>
     <p style="margin: 5px 0; font-size: 14px;">Supervised by <a href="http://www.zhanglinfeng.tech/index_chinese.html">Prof. Linfeng Zhang</a></p>
   </div>
@@ -127,7 +127,7 @@ Ken Li, Bin Shi, **Jiazhe Wei**, Bo Dong
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/hkust.png" alt="ROASlab" style="width: 100px; height: 100px; margin-right: 20px; object-fit: contain; flex-shrink: 0;">
   <div>
-    <p style="margin: 0;"><strong><a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/robotics-and-autonomous-systems/">ROASlab</a>, HKUST(GZ)</strong></p>
+    <p style="margin: 0;"><strong><a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/robotics-and-autonomous-systems/">ROASlab</a>, The Hong Kong University of Science and Technology (Guangzhou)</strong></p>
     <p style="margin: 5px 0; font-size: 14px;"><em>2025.08 - present, Research Assistant, Guangzhou, China</em></p>
     <p style="margin: 5px 0; font-size: 14px;">Supervised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHU-Lei/leizhu">Prof. Lei Zhu</a></p>
   </div>
