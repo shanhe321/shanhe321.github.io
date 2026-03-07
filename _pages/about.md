@@ -40,7 +40,7 @@ My research interests mainly focus on: **Multimodal Large Language Model, AIGC, 
 - *2026.03*: &nbsp;🎉 **FedShift** is accepted by **ICLRW 2026** as oral presentation. Congratulations to all co-authors. See you in Rio de Janeiro, Brazil.
 
 
-# 📝 Publications | Preprints [Full List](https://scholar.google.com/citations?user=GJrqN4EAAAAJ&hl=en&oi=ao)
+# 📝 Publications | Preprints
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/LinCa.png' alt="LinCa" style="width: 100%; height: auto; object-fit: cover; max-height: 280px;"></div></div>
 
