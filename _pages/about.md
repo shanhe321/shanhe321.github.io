@@ -42,7 +42,7 @@ My research interests mainly focus on: **Multimodal Large Language Model, AIGC, 
 
 # 📝 Publications | Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/LinCa.png' alt="LinCa" style="width: 100%; height: auto; object-fit: cover; max-height: 280px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/LinCa.png' alt="LinCa" style="width: 100%; height: auto; object-fit: cover; max-height: 280px;"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -60,7 +60,7 @@ My research interests mainly focus on: **Multimodal Large Language Model, AIGC, 
 
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Kiroshi.png' alt="Kiroshi" style="width: 100%; height: auto; object-fit: cover; max-height: 200px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Kiroshi.png' alt="Kiroshi" style="width: 100%; height: auto; object-fit: cover; max-height: 200px;"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
