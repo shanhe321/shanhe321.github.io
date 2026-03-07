@@ -84,7 +84,7 @@ Haipeng Zhou *, **JinShan Liu** *, He Zhang, Xuequan Lu, Jun Ma, Lei Zhu <sup>â€
 
 **JinShan Liu** *, Ken Li *, Jiazhe Wei, Bin Shi <sup>â€ </sup>, Bo Dong 
 
-<!-- [**[PDF]**](https://arxiv.org/pdf/xxx) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+[**[PDF]**](https://openreview.net/pdf?id=8MLGZgOJus) [**[Github]**](https://github.com/shanhe321/FedShift) 
 
 **TL;DR:** *We propose FedShift, a two-stage distributed backdoor attack on Federated Graph Learning that hides a learnable shifter during training and finds adversarial perturbations post-training, achieving state-of-the-art attack success while evading defenses with 90%+ reduced cost.*
 
