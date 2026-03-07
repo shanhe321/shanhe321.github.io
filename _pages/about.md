@@ -37,7 +37,7 @@ My research interests mainly focus on: **Multimodal Large Language Model, AIGC, 
 
 <!-- - *2026.03*: &nbsp;🎉 **LinCa** is now available on [arxiv](xxx), code is under construction. -->
 
-- *2026.03*: &nbsp;🎉 **FedShift** is accepted by **ICLRW 2026** as oral presentation. Congratulations to all co-authors. See you in Rio de Janeiro, Brazil.
+- *2026.03*: &nbsp;🎉 **FedShift** is accepted by **ICLRW 2026** as **oral** presentation. Congratulations to all co-authors. See you in Rio de Janeiro, Brazil.
 
 
 # 📝 Publications | Preprints
@@ -46,7 +46,7 @@ My research interests mainly focus on: **Multimodal Large Language Model, AIGC, 
 
 <div class='paper-box-text' markdown="1">
 
-[LinCa: Accelerating Diffusion Models via Learnable Decomposed Feature Caching](https://arxiv.org/pdf/xxx)
+**LinCa: Accelerating Diffusion Models via Learnable Decomposed Feature Caching**
 
 **JinShan Liu** *, Haoran Qin *, Xiaobing Tu, Jiacheng Liu, Jiahui Hu, Zhengan Yan, Yukun Xie, Kerui Shen, Jinkui Ren, Yuqi Lin, Xiantao Zhang, Linfeng Zhang <sup>†</sup>
 
@@ -64,7 +64,7 @@ My research interests mainly focus on: **Multimodal Large Language Model, AIGC, 
 
 <div class='paper-box-text' markdown="1">
 
-[Kiroshi: An Agentic Perception System for High-Accuracy Image Parsing](https://arxiv.org/pdf/xxx)
+**Kiroshi: An Agentic Perception System for High-Accuracy Image Parsing**
 
 Haipeng Zhou *, **JinShan Liu** *, He Zhang, Xuequan Lu, Jun Ma, Lei Zhu <sup>†</sup> 
 
@@ -80,7 +80,7 @@ Haipeng Zhou *, **JinShan Liu** *, He Zhang, Xuequan Lu, Jun Ma, Lei Zhu <sup>�
 
 <div class='paper-box-text' markdown="1">
 
-[Hide and Find: A Distributed Adversarial Attack on Federated Graph Learning](https://arxiv.org/pdf/xxx)
+**Hide and Find: A Distributed Adversarial Attack on Federated Graph Learning**
 
 **JinShan Liu** *, Ken Li *, Jiazhe Wei, Bin Shi <sup>†</sup>, Bo Dong 
 
@@ -172,7 +172,7 @@ Ken Li, Bin Shi, **Jiazhe Wei**, Bo Dong
     <p style="margin: 0;"><strong>Xi'an Jiaotong University (XJTU)</strong>, China</p>
     <p style="margin: 5px 0; font-size: 14px;"><em>2023.09 - 2027.07 (expected)</em></p>
     <p style="margin: 5px 0; font-size: 14px;"><strong>B.Eng. in Computer Science and Technology</strong></p>
-    <p style="margin: 5px 0; font-size: 14px;">• Ranking: 1/193</p>
+    <p style="margin: 5px 0; font-size: 14px;"><strong>• Ranking: 1/193</strong></p>
     <p style="margin: 5px 0; font-size: 14px;">• GPA: 93.72 / 100</p>
     <p style="margin: 5px 0; font-size: 14px;">• CET-6: 639</p>
   </div>
