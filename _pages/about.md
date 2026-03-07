@@ -26,7 +26,9 @@ Hi! I am **Jinshan Liu (刘锦山)**, a junior undergraduate student majoring in
 
 <!-- My research interests mainly focus on: **1) Highly Controllable Visual Generative Models; 2) World Foundation Models; 3) Efficient Generative Models and Model Compression; 4) Unified Multi-modal Learning**.  -->
 
-My research interests mainly focus on: **1) AI-Generated Content (AIGC); 2) Diffusion Models Acceleration; 3) Low-Level Computer Vision**.
+My research interests mainly focus on: **Multimodal Large Language Model, AIGC, Computer Vision**.
+
+
 
 
 ✨ <i style="color: red;">I'm always open to all kinds of cooperation and discussion.</i> **You can contact me via email or WeChat: ShanHe0416.**
