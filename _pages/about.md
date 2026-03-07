@@ -156,7 +156,7 @@ Ken Li, Bin Shi, **Jiazhe Wei**, Bo Dong
 - *2023* HuaWei scholarship
 - *2023* National third prize, Chinese College Students English Academic Proficiency Competition -->
 
-# 🏗️ Engineering Experience
+# 🔧 Engineering Experience
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboCup 2024 & 2025</div><img src='images/robocup.jpg' alt="RoboCup" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
