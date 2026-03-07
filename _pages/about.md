@@ -156,7 +156,20 @@ Ken Li, Bin Shi, **Jiazhe Wei**, Bo Dong
 - *2023* HuaWei scholarship
 - *2023* National third prize, Chinese College Students English Academic Proficiency Competition -->
 
-# 🎖 Honors and Awards (Selected)
+# 🏗️ Engineering Experience
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboCup 2024 & 2025</div><img src='images/robocup.jpg' alt="RoboCup" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Multi-modal Service Robot Based on ROS Architecture**
+
+*We built a multi-modal fully automatic home service robot powered by YOLOv8, MediaPipe, and InsightFace over ROS communication, achieving precise vision capabilities (facial recognition, object detection, action recognition, ACC > 95%) and interaction abilities (voice interaction, autonomous navigation, object grasping, near-zero failure rate).*
+
+</div>
+</div>
+
+
+# 🥇 Honors and Awards
 - *2025* **National Scholarship**, Ministry of Education of China
 - *2025* **National First Prize** 🏆, RoboCup China Robot Competition
 - *2025* **Meritorious Winner** 🏆, Mathematical Contest In Modeling (MCM/ICM)
@@ -174,6 +187,7 @@ Ken Li, Bin Shi, **Jiazhe Wei**, Bo Dong
     <p style="margin: 5px 0; font-size: 14px;"><strong>B.Eng. in Computer Science and Technology</strong></p>
     <p style="margin: 5px 0; font-size: 14px;"><strong>• Ranking: 1/193</strong></p>
     <p style="margin: 5px 0; font-size: 14px;">• GPA: 93.72 / 100</p>
+    <p style="margin: 5px 0; font-size: 14px;">• CET-6: 639</p>
     <p style="margin: 5px 0; font-size: 14px;">• CET-6: 639</p>
   </div>
 </div>

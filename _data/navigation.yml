@@ -12,8 +12,11 @@ main:
   - title: "Research Experience"
     url: "/#-research--intern-experience"
 
+  - title: "Engineering Experience"
+    url: "/#-engineering-experience"
+
   - title: "Honors & Awards"
-    url: "/#-honors-and-awards-selected"
+    url: "/#-honors-and-awards"
 
   - title: "Education"
     url: "/#-education"
