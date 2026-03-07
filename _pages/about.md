@@ -169,7 +169,7 @@ Ken Li, Bin Shi, **Jiazhe Wei**, Bo Dong
 </div>
 
 
-# 🥇 Honors and Awards
+# 🥇 Honors and Awards (Selected)
 - *2025* **National Scholarship**, Ministry of Education of China
 - *2025* **National First Prize** 🏆, RoboCup China Robot Competition
 - *2025* **Meritorious Winner** 🏆, Mathematical Contest In Modeling (MCM/ICM)
