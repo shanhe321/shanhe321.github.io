@@ -188,7 +188,6 @@ Ken Li, Bin Shi, **Jiazhe Wei**, Bo Dong
     <p style="margin: 5px 0; font-size: 14px;"><strong>• Ranking: 1/193</strong></p>
     <p style="margin: 5px 0; font-size: 14px;">• GPA: 93.72 / 100</p>
     <p style="margin: 5px 0; font-size: 14px;">• CET-6: 639</p>
-    <p style="margin: 5px 0; font-size: 14px;">• CET-6: 639</p>
   </div>
 </div>
 
