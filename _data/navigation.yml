@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications--preprints-full-list"
+    url: "/#-publications--preprints"
 
   - title: "Research Experience"
     url: "/#-research--intern-experience"
