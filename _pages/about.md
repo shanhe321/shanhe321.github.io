@@ -33,6 +33,20 @@ My research interests mainly focus on: **Multimodal Large Language Model, AIGC, 
 
 ✨ <i style="color: red;">I'm always open to all kinds of cooperation and discussion.</i> **You can contact me via email or WeChat: ShanHe0416.**
 
+# 📖 Education
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/xjtu.png" alt="XJTU" style="width: 115px; height: 115px; margin-right: 20px; object-fit: contain; flex-shrink: 0;">
+  <div>
+    <p style="margin: 0;"><strong>Xi'an Jiaotong University (XJTU)</strong>, China</p>
+    <p style="margin: 5px 0; font-size: 14px;"><em>2023.09 - 2027.07 (expected)</em></p>
+    <p style="margin: 5px 0; font-size: 14px;"><strong>B.Eng. in Computer Science and Technology</strong></p>
+    <p style="margin: 5px 0; font-size: 14px;"><strong>• Ranking: 1/193</strong></p>
+    <p style="margin: 5px 0; font-size: 14px;">• GPA: 93.72 / 100</p>
+    <p style="margin: 5px 0; font-size: 14px;">• CET-6: 639</p>
+  </div>
+</div>
+
 # 🔥 News
 
 <!-- - *2026.03*: &nbsp;🎉 **LinCa** is now available on [arxiv](xxx), code is under construction. -->
@@ -179,19 +193,7 @@ Ken Li, Bin Shi, **Jiazhe Wei**, Bo Dong
 - *2024* **National First Prize** 🏆, RoboCup China Robot Competition
 
 
-# 📖 Education
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/xjtu.png" alt="XJTU" style="width: 115px; height: 115px; margin-right: 20px; object-fit: contain; flex-shrink: 0;">
-  <div>
-    <p style="margin: 0;"><strong>Xi'an Jiaotong University (XJTU)</strong>, China</p>
-    <p style="margin: 5px 0; font-size: 14px;"><em>2023.09 - 2027.07 (expected)</em></p>
-    <p style="margin: 5px 0; font-size: 14px;"><strong>B.Eng. in Computer Science and Technology</strong></p>
-    <p style="margin: 5px 0; font-size: 14px;"><strong>• Ranking: 1/193</strong></p>
-    <p style="margin: 5px 0; font-size: 14px;">• GPA: 93.72 / 100</p>
-    <p style="margin: 5px 0; font-size: 14px;">• CET-6: 639</p>
-  </div>
-</div>
 
 # 📋 Service
 
