@@ -37,7 +37,7 @@ My research interests mainly focus on: **Multimodal Large Language Model, AIGC, 
 
 <!-- - *2026.03*: &nbsp;🎉 **LinCa** is now available on [arxiv](xxx), code is under construction. -->
 
-- *2026.03*: &nbsp;🎉 **FedShift** is accepted by **ICLRW 2026** as **oral** presentation. Congratulations to all co-authors. See you in Rio de Janeiro, Brazil.
+- *2026.03*: &nbsp;🎉 **FedShift** is accepted by **ICLR 2026 Workshop** as **oral** presentation. Congratulations to all co-authors. See you in Rio de Janeiro, Brazil.
 
 
 # 📝 Publications | Preprints
@@ -76,7 +76,7 @@ Haipeng Zhou *, **JinShan Liu** *, He Zhang, Xuequan Lu, Jun Ma, Lei Zhu <sup>�
 
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLRW 2026 Oral</div><img src='images/Graph.png' alt="FedShift" style="width: 100%; height: auto; object-fit: cover; max-height: 200px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Workshop Oral</div><img src='images/Graph.png' alt="FedShift" style="width: 100%; height: auto; object-fit: cover; max-height: 200px;"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
