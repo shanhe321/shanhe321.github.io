@@ -51,12 +51,16 @@ My research interests mainly focus on: **Multimodal Large Language Model, AIGC, 
 
 <!-- - *2026.03*: &nbsp;🎉 **LinCa** is now available on [arxiv](xxx), code is under construction. -->
 
+- *2026.06*: &nbsp;🎉 **LinCa** is accepted by **ECCV 2026**. Congratulations to all co-authors. See you in Malmö, Sweden.
+
+- *2026.06*: &nbsp;🎉 **Kiroshi** is accepted by **ECCV 2026**. Congratulations to Haipeng Zhou! See you in Malmö, Sweden.
+
 - *2026.03*: &nbsp;🎉 **FedShift** is accepted by **ICLR 2026 Workshop** as **oral** presentation. Congratulations to all co-authors. See you in Rio de Janeiro, Brazil.
 
 
 # 📝 Publications | Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/LinCa.png' alt="LinCa" style="width: 100%; height: auto; object-fit: cover; max-height: 280px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/LinCa.png' alt="LinCa" style="width: 100%; height: auto; object-fit: cover; max-height: 280px;"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -74,7 +78,7 @@ My research interests mainly focus on: **Multimodal Large Language Model, AIGC, 
 
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Kiroshi.png' alt="Kiroshi" style="width: 100%; height: auto; object-fit: cover; max-height: 200px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/Kiroshi.png' alt="Kiroshi" style="width: 100%; height: auto; object-fit: cover; max-height: 200px;"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -186,6 +190,7 @@ Ken Li, Bin Shi, **Jiazhe Wei**, Bo Dong
 
 
 # 🥇 Honors and Awards (Selected)
+- *2026* **Gold Medal** 🥇, ICPC China Shaanxi Provincial Programming Contest
 - *2025* **National Scholarship**, Ministry of Education of China
 - *2025* **National First Prize** 🏆, RoboCup China Robot Competition
 - *2025* **Meritorious Winner** 🏆, Mathematical Contest In Modeling (MCM/ICM)
