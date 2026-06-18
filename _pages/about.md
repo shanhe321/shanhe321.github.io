@@ -66,7 +66,7 @@ My research interests mainly focus on: **Multimodal Large Language Model, AIGC, 
 
 **LinCa: Accelerating Diffusion Models via Learnable Decomposed Feature Caching**
 
-**JinShan Liu** *, Haoran Qin *, Xiaobing Tu, Jiacheng Liu, Jiahui Hu, Zhengan Yan, Yukun Xie, Kerui Shen, Jinkui Ren, Yuqi Lin, Xiantao Zhang, Linfeng Zhang <sup>†</sup>
+**Jinshan Liu** *, Haoran Qin *, Xiaobing Tu, Jiacheng Liu, Jiahui Hu, Zhengan Yan, Yukun Xie, Kerui Shen, Jinkui Ren, Yuqi Lin, Xiantao Zhang, Linfeng Zhang <sup>†</sup>
 
 <!-- [**[PDF]**](https://arxiv.org/pdf/xxx) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
@@ -84,7 +84,7 @@ My research interests mainly focus on: **Multimodal Large Language Model, AIGC, 
 
 **Kiroshi: An Agentic Perception System for High-Accuracy Image Parsing**
 
-Haipeng Zhou *, **JinShan Liu** *, He Zhang, Xuequan Lu, Jun Ma, Lei Zhu <sup>†</sup> 
+Haipeng Zhou *, **Jinshan Liu** *, He Zhang, Xuequan Lu, Jun Ma, Lei Zhu <sup>†</sup> 
 
 <!-- [**[PDF]**](https://arxiv.org/pdf/xxx) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
@@ -100,7 +100,7 @@ Haipeng Zhou *, **JinShan Liu** *, He Zhang, Xuequan Lu, Jun Ma, Lei Zhu <sup>�
 
 **Hide and Find: A Distributed Adversarial Attack on Federated Graph Learning**
 
-**JinShan Liu** *, Ken Li *, Jiazhe Wei, Bin Shi <sup>†</sup>, Bo Dong 
+**Jinshan Liu** *, Ken Li *, Jiazhe Wei, Bin Shi <sup>†</sup>, Bo Dong 
 
 [**[PDF]**](https://arxiv.org/pdf/2603.07743) [**[Github]**](https://github.com/shanhe321/FedShift) 
 
@@ -138,7 +138,7 @@ Ken Li, Bin Shi, **Jiazhe Wei**, Bo Dong
   <img src="images/sjtu.png" alt="EPIClab" style="width: 100px; height: 100px; margin-right: 20px; object-fit: contain; flex-shrink: 0;">
   <div>
     <p style="margin: 0;"><strong><a href="https://github.com/SJTU-EPIC-Lab">EPIClab</a>, Shanghai Jiaotong University</strong></p>
-    <p style="margin: 5px 0; font-size: 14px;"><em>2025.10 - present, Research Assistant, Shanghai, China</em></p>
+    <p style="margin: 5px 0; font-size: 14px;"><em>2025.11 - 2026.03, Research Assistant, Shanghai, China</em></p>
     <p style="margin: 5px 0; font-size: 14px;">Supervised by <a href="http://www.zhanglinfeng.tech/index_chinese.html">Prof. Linfeng Zhang</a></p>
   </div>
 </div>
