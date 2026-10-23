@@ -1,0 +1,3 @@
+{% assign paper_authors = include.authors | split: '|' %}
+{% assign remaining_authors = paper_authors.size | minus: 3 %}
+<p class="paper-authors">{% for author in paper_authors limit: 3 %}{% unless forloop.first %}, {% endunless %}{{ author }}{% endfor %}{% if remaining_authors > 0 %}<span class="paper-authors-extra" id="authors-{{ include.id }}" hidden>{% for author in paper_authors offset: 3 %}, {{ author }}{% endfor %}</span><span class="paper-authors-expand">, <button type="button" class="paper-authors-action" aria-controls="authors-{{ include.id }}" aria-expanded="false">and {{ remaining_authors }} more author{% if remaining_authors != 1 %}s{% endif %}</button></span>{% endif %}</p>
