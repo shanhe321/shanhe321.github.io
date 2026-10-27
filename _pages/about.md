@@ -21,7 +21,7 @@ redirect_from:
 
 Hi! I am **Jinshan Liu (刘锦山)**, a senior undergraduate student at the **School of Computer Science, Xi’an Jiaotong University (XJTU)**. I will begin my Ph.D. studies at the **School of Computer Science, Peking University (PKU)**, under the supervision of **[Prof. Shiliang Zhang](https://www.pkuvmc.com/)**.
 
-My research interests mainly focus on **Efficient AIGC** and **World Models**.
+My research interests mainly focus on **Efficient AIGC**, **Video Generation** and **World Models**.
 
 ✨ <span style="color: red;">I'm always open to all kinds of cooperation and discussion.</span> I am currently **seeking internship opportunities**.
 
