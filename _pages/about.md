@@ -28,7 +28,7 @@ My research interests mainly focus on **Efficient AIGC**, **Video Generation** a
 # Education
 
 <div class="education-entry">
-  <img src="images/pku.png" alt="PKU">
+  <img src="images/pku.webp" alt="PKU" width="360" height="360" loading="lazy" decoding="async">
   <div>
     <p><strong>Peking University (PKU)</strong>, China</p>
     <p class="entry-detail">2027.09 - 2032.07 (expected)</p>
@@ -37,7 +37,7 @@ My research interests mainly focus on **Efficient AIGC**, **Video Generation** a
 </div>
 
 <div class="education-entry">
-  <img src="images/xjtu.png" alt="XJTU">
+  <img src="images/xjtu.webp" alt="XJTU" width="240" height="240" loading="lazy" decoding="async">
   <div>
     <p><strong>Xi'an Jiaotong University (XJTU)</strong>, China</p>
     <p class="entry-detail">2023.09 - 2027.07 (expected)</p>
@@ -70,7 +70,7 @@ My research interests mainly focus on **Efficient AIGC**, **Video Generation** a
 
 # Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/cacheflow-method.png' alt="CacheFlow method overview" style="width: 100%; height: auto; object-fit: contain; max-height: 280px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/cacheflow-method.webp' alt="CacheFlow method overview" width="1200" height="475" loading="lazy" decoding="async" style="width: 100%; height: auto; object-fit: contain; max-height: 280px;"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -88,7 +88,7 @@ My research interests mainly focus on **Efficient AIGC**, **Video Generation** a
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/linca-method.png' alt="LinCa" style="width: 100%; height: auto; object-fit: contain; max-height: 280px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/linca-method.webp' alt="LinCa" width="1111" height="524" loading="lazy" decoding="async" style="width: 100%; height: auto; object-fit: contain; max-height: 280px;"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -109,7 +109,7 @@ My research interests mainly focus on **Efficient AIGC**, **Video Generation** a
 
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Kiroshi.png' alt="Kiroshi" style="width: 100%; height: auto; object-fit: contain; max-height: 200px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Kiroshi.webp' alt="Kiroshi" width="1079" height="528" loading="lazy" decoding="async" style="width: 100%; height: auto; object-fit: contain; max-height: 200px;"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -130,7 +130,7 @@ My research interests mainly focus on **Efficient AIGC**, **Video Generation** a
 
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Graph.png' alt="FedShift" style="width: 100%; height: auto; object-fit: contain; max-height: 200px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Graph.webp' alt="FedShift" width="1459" height="507" loading="lazy" decoding="async" style="width: 100%; height: auto; object-fit: contain; max-height: 200px;"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
