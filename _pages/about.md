@@ -165,5 +165,5 @@ My research interests mainly focus on **Efficient AIGC**, **Video Generation** a
 - **Reviewer**: AAAI 2026, ICLR 2026, ECCV 2026, ICLR 2027
 
 <p style="text-align: center; font-size: small;"><span>Latest updated in Oct. 2026</span></p>
-<p style="text-align: center; font-size: small;" aria-live="polite"><span id="busuanzi_container_site_pv" style="display: none;">Total visits: <span id="busuanzi_value_site_pv"></span></span></p>
+<p style="text-align: center; font-size: small;" aria-live="polite"><span id="vercount_container_site_pv" style="display: none;">Total visits: <span id="vercount_value_site_pv"></span></span></p>
 <p style="text-align: center;">© Jinshan Liu</p>
