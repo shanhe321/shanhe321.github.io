@@ -1,5 +1,9 @@
 <script src="assets/js/main.min.js"></script>
 <script src="assets/js/paper-authors.js"></script>
 
+{% if page.visit_counter and jekyll.environment == "production" %}
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+{% endif %}
+
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
