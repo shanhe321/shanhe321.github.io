@@ -96,7 +96,7 @@ My research interests mainly focus on **Efficient AIGC**, **Video Generation** a
 
 <div class='paper-box-text' markdown="1">
 
-<div class="badge">ECCV 2026</div>
+<div class="badge">ECCV, 2026</div>
 
 **LinCa: Accelerating Diffusion Models via Learnable Decomposed Feature Caching**
 
@@ -117,7 +117,7 @@ My research interests mainly focus on **Efficient AIGC**, **Video Generation** a
 
 <div class='paper-box-text' markdown="1">
 
-<div class="badge">ECCV 2026</div>
+<div class="badge">ECCV, 2026</div>
 
 **Kiroshi: An Agentic Perception System for High-Accuracy Image Parsing**
 
@@ -138,7 +138,7 @@ My research interests mainly focus on **Efficient AIGC**, **Video Generation** a
 
 <div class='paper-box-text' markdown="1">
 
-<div class="badge">ICLR 2026 Workshop (Oral)</div>
+<div class="badge">ICLR Trustworthy AI Workshop (Oral), 2026</div>
 
 **Hide and Find: A Distributed Adversarial Attack on Federated Graph Learning**
 
