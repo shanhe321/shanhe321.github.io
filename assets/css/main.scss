@@ -175,7 +175,20 @@ h1:before, .anchor:before {
 }
 
 .experience-entry {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 24px;
+    align-items: start;
+    gap: 12px;
     margin-bottom: 20px;
+
+    > div { min-width: 0; }
+    .experience-logo {
+        width: 24px;
+        height: 24px;
+        object-fit: contain;
+        object-position: right top;
+    }
+
     p { margin: 0; }
     .entry-detail { margin: 5px 0; font-size: 14px; }
     .experience-dates { white-space: nowrap; font-size: 14px; }
