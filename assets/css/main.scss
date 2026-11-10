@@ -176,17 +176,17 @@ h1:before, .anchor:before {
 
 .experience-entry {
     display: grid;
-    grid-template-columns: minmax(0, 1fr) 24px;
-    align-items: start;
-    gap: 12px;
+    grid-template-columns: minmax(0, 1fr) 52px;
+    align-items: center;
+    gap: 16px;
     margin-bottom: 20px;
 
     > div { min-width: 0; }
     .experience-logo {
-        width: 24px;
-        height: 24px;
+        justify-self: center;
+        width: auto;
+        height: 52px;
         object-fit: contain;
-        object-position: right top;
     }
 
     p { margin: 0; }

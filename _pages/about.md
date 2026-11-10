@@ -53,7 +53,7 @@ My research interests mainly focus on **Efficient AIGC**, **Video Generation** a
     <p><strong>Research Intern | <a href="https://github.com/SJTU-EPIC-Lab">EPIClab</a>, Shanghai Jiao Tong University</strong><span class="experience-dates"> | 2025.11 - 2026.06</span></p>
     <p class="entry-detail">Advised by <a href="http://www.zhanglinfeng.tech/index_chinese.html">Prof. Linfeng Zhang</a>, focusing on Efficient AIGC.</p>
   </div>
-  <img class="experience-logo" src="images/experience-sjtu.webp" alt="SJTU" width="72" height="72" loading="lazy" decoding="async">
+  <img class="experience-logo" src="images/experience-sjtu.webp" alt="SJTU" width="156" height="156" loading="lazy" decoding="async">
 </div>
 
 <div class="experience-entry">
@@ -61,7 +61,7 @@ My research interests mainly focus on **Efficient AIGC**, **Video Generation** a
     <p><strong>Research Intern | <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/robotics-and-autonomous-systems/">ROASlab</a>, The Hong Kong University of Science and Technology (Guangzhou)</strong><span class="experience-dates"> | 2025.07 - 2025.11</span></p>
     <p class="entry-detail">Advised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHU-Lei/leizhu">Prof. Lei Zhu</a>, focusing on MLLM Understanding.</p>
   </div>
-  <img class="experience-logo" src="images/experience-hkust-gz.webp" alt="HKUST (Guangzhou)" width="46" height="72" loading="lazy" decoding="async">
+  <img class="experience-logo" src="images/experience-hkust-gz.webp" alt="HKUST (Guangzhou)" width="100" height="156" loading="lazy" decoding="async">
 </div>
 
 <div class="experience-entry">
@@ -69,7 +69,7 @@ My research interests mainly focus on **Efficient AIGC**, **Video Generation** a
     <p><strong>Research Intern | <a href="https://bdkelab.xjtu.edu.cn/sysjj/sysjj.htm">BDKElab</a>, Xi'an Jiaotong University</strong><span class="experience-dates"> | 2025.03 - 2025.07</span></p>
     <p class="entry-detail">Advised by <a href="https://gr.xjtu.edu.cn/en/web/shibin/english-version">Prof. Bin Shi</a>, focusing on AI Safety.</p>
   </div>
-  <img class="experience-logo" src="images/experience-xjtu.webp" alt="XJTU" width="72" height="72" loading="lazy" decoding="async">
+  <img class="experience-logo" src="images/experience-xjtu.webp" alt="XJTU" width="156" height="156" loading="lazy" decoding="async">
 </div>
 
 # Selected Publications
